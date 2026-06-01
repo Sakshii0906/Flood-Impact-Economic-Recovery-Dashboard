@@ -35,12 +35,16 @@ This project analyzes the socioeconomic impact of the 2024 Vadodara floods using
 
 ### Food Cost Analysis
 
-![Food Cost](food-cost.png)
+! [Food] (food-cost-analysis.png)
 
 ### Flood Factors Analysis
 
-![Factors](factors.png)
+![Flood] (flood-factors-analysis)
 
 ### Insights
 
-![Insights](insights1.png)
+![Insights](insights.png)
+
+### Insights
+
+![Insights](insights2.png)
