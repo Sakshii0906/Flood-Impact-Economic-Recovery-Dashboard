@@ -43,8 +43,9 @@ This project analyzes the socioeconomic impact of the 2024 Vadodara floods using
 
 ### Insights
 
-![Insights](insights.png)
+![Insights](insights(2).png)
 
 ### Insights
 
-![Insights](insights2.png)
+![Insights](insights.png)
+
